@@ -1,0 +1,3 @@
+-This Application for check reachability of the host.
+-Use pod Alamofire for the url hit.
+-Please install pod than test the code. 
