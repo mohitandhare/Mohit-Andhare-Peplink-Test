@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:readme">
+   </FileRef>
+   <FileRef
       location = "group:Mohit-Andhare-Peplink-Test.xcodeproj">
    </FileRef>
    <FileRef
